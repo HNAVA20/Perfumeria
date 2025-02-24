@@ -1,5 +1,25 @@
 {
   "dependencies": {
-    "react-router-dom": "^7.2.0"
-  }
+    "react-router-dom": "^7.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "name": "perfumeria-1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000e\u0000r\u0000f\u0000u\u0000m\u0000e\u0000r\u0000i\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HNAVA20/Perfumeria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HNAVA20/Perfumeria/issues"
+  },
+  "homepage": "https://github.com/HNAVA20/Perfumeria#readme"
 }
